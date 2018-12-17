@@ -1,0 +1,7 @@
+C:\Users\Yuliya\Documents\cSharpCoursePractice\practiceLists\PapildomaUzduotis7\PapildomaUzduotis7\bin\Debug\PapildomaUzduotis7.exe.config
+C:\Users\Yuliya\Documents\cSharpCoursePractice\practiceLists\PapildomaUzduotis7\PapildomaUzduotis7\bin\Debug\PapildomaUzduotis7.exe
+C:\Users\Yuliya\Documents\cSharpCoursePractice\practiceLists\PapildomaUzduotis7\PapildomaUzduotis7\bin\Debug\PapildomaUzduotis7.pdb
+C:\Users\Yuliya\Documents\cSharpCoursePractice\practiceLists\PapildomaUzduotis7\PapildomaUzduotis7\obj\Debug\PapildomaUzduotis7.csprojAssemblyReference.cache
+C:\Users\Yuliya\Documents\cSharpCoursePractice\practiceLists\PapildomaUzduotis7\PapildomaUzduotis7\obj\Debug\PapildomaUzduotis7.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Documents\cSharpCoursePractice\practiceLists\PapildomaUzduotis7\PapildomaUzduotis7\obj\Debug\PapildomaUzduotis7.exe
+C:\Users\Yuliya\Documents\cSharpCoursePractice\practiceLists\PapildomaUzduotis7\PapildomaUzduotis7\obj\Debug\PapildomaUzduotis7.pdb
